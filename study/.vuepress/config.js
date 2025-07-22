@@ -2,7 +2,7 @@ module.exports = {
   title: "dh 的记录博客",
   description: "分享学习、技术、生活",
   dest: 'docs',
-  base: './',
+  base: '/blog/',
   theme: 'reco',
   markdown: {
     lineNumbers: true,
