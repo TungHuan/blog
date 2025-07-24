@@ -3,7 +3,7 @@ home: true
 heroText: 学习前端的 dh
 tagline: 分享学习、技术、生活
 actionText: 开始探索 →
-actionLink: /计算机基础/
+actionLink: /前端开发/React
 features:
 - title: 前端开发
   details: HTML、CSS、JavaScript、Vue.js、React等前端技术的学习心得和实践经验
